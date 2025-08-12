@@ -1,0 +1,15 @@
+---
+created: 2024-09-17T07:00:00.000-0400
+draft: false
+enableToc: false
+excludeBacklinks: true
+tags: null
+transcludeTitleSize: h2
+---
+
+## Agenda
+1. Exercise: [[Name Plate]]
+	- Complete your name plate in today's class.
+
+## Things to do before our next class
+- [ ] If not completed in class, finish the items listed above.

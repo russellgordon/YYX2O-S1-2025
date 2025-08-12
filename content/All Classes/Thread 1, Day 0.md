@@ -1,0 +1,17 @@
+---
+created: 2024-09-06T07:00:00.000-0400
+draft: false
+enableToc: false
+excludeBacklinks: true
+tags: null
+transcludeTitleSize: h2
+---
+
+## Agenda
+1. Activity: [[Rock-Paper-Scissors]]
+2. [Course Outline](https://drive.google.com/file/d/1uWps8Mk0a7KohiR-1P2B0QDOiw0gyL9o/view?usp=drive_link)
+3. Portfolio: [[Creating a Notion Account]]
+4. Portfolio: [[First Entry]]
+
+## Things to do before our next class
+- [ ] Be sure you have [[First Entry|written your first portfolio post]] to introduce yourself and identify your areas of interest.
