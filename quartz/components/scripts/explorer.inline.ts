@@ -4,7 +4,7 @@ import { ContentDetails } from "../../plugins/emitters/contentIndex"
 
 // ✅ Static import of expandable folder list
 // @ts-ignore
-import courseConfig from "../../../../../course_config.json"
+import courseConfig from "../../course_config.json"
 
 const expandableList: string[] = courseConfig.expandable || []
 

@@ -1,5 +1,5 @@
 // @ts-ignore
-import courseConfig from "../../../../course_config.json"
+import courseConfig from "../course_config.json"
 
 const expandableList = courseConfig.expandable ?? []
 
